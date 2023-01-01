@@ -3,17 +3,22 @@ To run project
 2-Run Eureka server
 3-Run microservice 
 
-Set Up
+Set Up Microservice
 ```
 npm install
 ```
 
-Run Eureka
+Set up Eureka
 ```
-npm start
+mvn clean install
 ```
 
-Run each Local Development
+Run Eureka
+```
+java -jar target/demo-0.0.1-SNAPSHOT.jar
+```
+
+Run each Local Development microservice
 ```
 npm start
 ```
