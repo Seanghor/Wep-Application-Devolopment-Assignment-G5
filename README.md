@@ -1,12 +1,13 @@
 
-# Team
+# Group5
 ### Hai Seanghor
 ### Rith Kimsour
 ### Ban Sothea
-#Requirement
-1-Install all dependencies
-2-Run Eureka server
-3-Run microservice 
+
+## Requirement
+* 1-Install all dependencies
+* 2-Run Eureka server
+* 3-Run microservice 
 
 Set Up Microservice
 ```
