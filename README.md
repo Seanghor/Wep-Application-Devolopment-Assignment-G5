@@ -6,30 +6,14 @@
 
 ## Requirement
 * 1-Install all dependencies
-* 2-Run Eureka server
-* 3-Run microservice and register Eureka service
 
-Set Up Microservice
+Set Dependances
 ```
 npm install
 ```
 
-Set up Eureka
-```
-mvn clean install
-```
-
-Run Eureka
-```
-java -jar target/demo-0.0.1-SNAPSHOT.jar
-```
-
-Run each Local Development microservice
+Run Local Development
 ```
 npm start
 ```
 
-Eureka server url
-```
-http://localhost:8761/
-```

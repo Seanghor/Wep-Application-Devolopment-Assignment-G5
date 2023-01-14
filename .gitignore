@@ -1,11 +1,5 @@
-/get profile/node_modules
-/get all user/node_modules
+.node_modules
 
-eureka/HELP.md
-eureka/target/
-!.mvn/wrapper/maven-wrapper.jar
-!/src/main//target/
-!/src/test//target/
 
 
 
