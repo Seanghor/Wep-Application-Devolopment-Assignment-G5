@@ -4,32 +4,7 @@
 ### Rith Kimsour
 ### Ban Sothea
 
-## Requirement
-* 1-Install all dependencies
-* 2-Run Eureka server
-* 3-Run microservice and register Eureka service
+## Dear, my beloved teacher:
+* For each assignment we have one branch in this repository, then you have to go to each brach to see our assignment
 
-Set Up Microservice
-```
-npm install
-```
 
-Set up Eureka
-```
-mvn clean install
-```
-
-Run Eureka
-```
-java -jar target/demo-0.0.1-SNAPSHOT.jar
-```
-
-Run each Local Development microservice
-```
-npm start
-```
-
-Eureka server url
-```
-http://localhost:8761/
-```
