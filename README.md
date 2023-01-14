@@ -7,7 +7,7 @@
 ## Requirement
 * 1-Install all dependencies
 * 2-Run Eureka server
-* 3-Run microservice 
+* 3-Run microservice and register Eureka service
 
 Set Up Microservice
 ```
