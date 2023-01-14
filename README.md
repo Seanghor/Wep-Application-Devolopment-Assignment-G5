@@ -10,7 +10,7 @@
 ## Requirement
 * 1-Install all dependencies
 
-Set Dependances
+Set up all Dependances
 ```
 npm install
 ```
